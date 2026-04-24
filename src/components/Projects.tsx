@@ -8,7 +8,7 @@ const projects = [
     category: "Частный дом · 320 м²",
     location: "Подмосковье",
     year: "2024",
-    image: "/images/hously-1.png",
+    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/68693396-4ab1-49e7-9652-9bdacb946e82.jpg",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const projects = [
     category: "Частный дом · 480 м²",
     location: "Новорижское шоссе",
     year: "2024",
-    image: "/images/hously-2.png",
+    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/a45a3f8d-08bb-4656-84c5-3e2b9059968c.jpg",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const projects = [
     category: "Частный дом · 260 м²",
     location: "Истринское водохранилище",
     year: "2023",
-    image: "/images/hously-3.png",
+    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/afa05e53-2ac5-4deb-b5ab-5a9063afb909.jpg",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const projects = [
     category: "Частный дом · 550 м²",
     location: "Калужское шоссе",
     year: "2023",
-    image: "/images/hously-4.png",
+    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/88b29e63-570f-4e9d-996e-3b6d583aa503.jpg",
   },
 ]
 
