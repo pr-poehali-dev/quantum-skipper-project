@@ -24,7 +24,7 @@ const projects = [
     category: "Частный дом · 260 м²",
     location: "Истринское водохранилище",
     year: "2023",
-    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/afa05e53-2ac5-4deb-b5ab-5a9063afb909.jpg",
+    image: "https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/6048d51a-2560-48ea-8b10-47e29be95c93.jpg",
   },
   {
     id: 4,
