@@ -120,8 +120,8 @@ export function Hero() {
     <section id="hero" ref={heroRef} className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hously-background.png"
-          alt="Минималистичный архитектурный интерьер"
+          src="https://cdn.poehali.dev/projects/086896bb-4851-4d0b-aa03-a3e04599d40d/files/9796449e-82e7-4801-963f-8d1563fe53a5.jpg"
+          alt="Минималистичный частный дом"
           className="w-full h-full object-cover object-center"
         />
       </div>
